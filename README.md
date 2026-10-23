@@ -4,6 +4,9 @@ Power BI analysis of Gujarat tourism and hotel supply to support investment prio
 A proposed ₹6,500 crore investment framework for inclusive tourism development
 Developed for QUB GIFT City Datathon 2026 - Data for Good, this team project combines hospitality analysis with a proposed investment strategy for Gujarat tourism. The final presentation examines 2,364 hotel listings across 24 destinations and recommends allocating investment across three tiers.
 
+<img width="3000" height="1875" alt="Gujarat_Tourism_One_Page_Dashboard" src="https://github.com/user-attachments/assets/87943afe-7521-4836-857a-6dcf455e3d08" />
+
+
 Tools: Power BI · Excel
 Focus: Business analysis · Investment prioritisation · Regional development
 Business problem
