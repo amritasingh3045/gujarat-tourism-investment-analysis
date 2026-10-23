@@ -33,7 +33,7 @@ Destination	Hotel count	Average rating	SQI	Interpretation
 Surendranagar	7	3.59	4.24	High priority for further assessment under the SQI framework
 Patan	10	3.92	3.92	Strong ratings with limited listed accommodation
 Saputara	28	3.81	2.63	A candidate for additional accommodation assessment
-Ahmedabad	480	—	1.29	Substantially greater existing listed supply
+Ahmedabad	480 - 1.29	Substantially greater existing listed supply
 
 Business analysis relevance
 The project demonstrates how descriptive analysis can support a structured investment discussion: define the decision, compare destinations, develop a prioritisation framework and communicate recommendations with explicit assumptions.
